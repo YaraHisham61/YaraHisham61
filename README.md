@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif" width="250"/>
   
-[![](https://visitcount.itsvg.in/api?id=YaraHisham61&icon=3&color=6)](https://visitcount.itsvg.in)
+ ![](https://komarev.com/ghpvc/?username=YaraHisham61&color=blueviolet)
 </div>
 <h3 align="center">Hello! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="22px"/> My name is Yara Hisham</h3>
 
