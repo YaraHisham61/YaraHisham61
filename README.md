@@ -6,7 +6,7 @@
 <h3 align="center">Hello! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="22px"/> My name is Yara Hisham</h3>
 
 # 💫 About Me:
-I'm a Computer Engineering student at Cairo University 🎓. <br>I have a keen interest in Embedded Systems & Data Science 👩‍💻.<br>Eager to learn more and more every day 📚.<br>
+I'm a Computer Engineering student at Cairo University 🎓. <br>I have a keen interest in ML, Data Science & App Development 👩‍💻.<br>Eager to learn more and more every day 📚.<br>
 
 
 ## 🌐 Socials:
